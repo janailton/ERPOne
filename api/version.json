@@ -1,4 +1,7 @@
 {
   "AppName": "ERPOne",
-  "Appversion": "1.7.6"
+  "AppVersion": "1.7.6",
+  "ApiKey30D": "Y234AntnmMq4yjut4t", 
+  "DemoLicense": "5xcCShMpxmLDagtmIhjWH/BNImFzGaJsqC8pfDpRzjndaQ1BCU7xO+NmKUI0PKcW/HQleCgmyQCKfUckAkysGfUXJXcXCspsqC8LaS0H2wfsfB5aCkOfVw==",
+  "Dk": "aHR0cHM6Ly9kcml2ZS5nb29nbGUuY29tL29wZW4/aWQ9MUEwMlFscU5IamRRMXZiTGZvVUcyaHI2T0lFVS1ZUWVD"
 }
